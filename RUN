@@ -1,0 +1,9 @@
+C:\Python34\python.exe C:/Users/Intrepid/PycharmProjects/Prism_assignement/kSum.py
+This run is accomplished with bruteforce algorithm
+Triplet is 7 43 1
+Triplet is 6 43 2
+This run is accomplished with sorted algorithm
+Triplet is 1 7 43
+Triplet is 2 6 43
+
+Process finished with exit code 0
