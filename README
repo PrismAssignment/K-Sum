@@ -23,7 +23,7 @@ RUN
 * Implement a brute-force solution. What's the running time of this solution,
    as a function of n and k, where n in the length of the input set?
    
-- Big O or average complexity of bruteforce algorithm will be O(N^3). 
+- Big O or average complexity of bruteforce algorithm will be O(n^3). 
 
 * Implement a more time efficient solution - ideally a solution with lowest
    possible running time. What's the running time of your solution? Do you
